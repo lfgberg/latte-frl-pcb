@@ -1,4 +1,4 @@
-19337663949152782
+19360392295838921
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -51100,6 +51100,20 @@ MXOnly-1U-NoLED-3pin
 2
 2
 Footprints
+MXOnly-10U-NoLED
+
+
+0
+2
+2
+Footprints
+MXOnly-ISO-ReversedStabilizers-NoLED
+
+
+0
+2
+2
+Footprints
 ProMicro_v2
 
 
@@ -51156,6 +51170,13 @@ rotary encoder
 7
 6
 Footprints
+SOT-23
+SOT-23, Standard
+SOT-23
+0
+3
+3
+Footprints
 SOT-143
 SOT-143
 SOT-143
@@ -51191,6 +51212,13 @@ TX-silk
 0
 0
 Footprints
+aligao
+
+
+0
+0
+0
+Footprints
 bricks
 
 
@@ -51199,6 +51227,13 @@ bricks
 0
 Footprints
 call-for-a-good-time
+
+
+0
+0
+0
+Footprints
+capslockfixedoutlinesi40
 
 
 0
@@ -51233,6 +51268,20 @@ dn
 0
 0
 Footprints
+ego_silk_10mm
+
+
+0
+0
+0
+Footprints
+eri
+
+
+0
+0
+0
+Footprints
 ferrous copper
 
 
@@ -51248,6 +51297,13 @@ gasket-mounting-point-plating
 0
 Footprints
 halo
+
+
+0
+0
+0
+Footprints
+halocantkb
 
 
 0
@@ -51276,6 +51332,20 @@ lg
 0
 Footprints
 lg-silk
+
+
+0
+0
+0
+Footprints
+maya_turtle
+
+
+0
+0
+0
+Footprints
+maya_turtleshell
 
 
 0
@@ -51331,6 +51401,27 @@ reversible-mx-alps-choc
 12
 2
 Footprints
+rt101-nonstepped-copper
+
+
+0
+0
+0
+Footprints
+rt101-nonstepped-wkl-outlines
+
+
+0
+0
+0
+Footprints
+si40-wkl-copper
+
+
+0
+0
+0
+Footprints
 size-matters-copper
 
 
@@ -51339,6 +51430,13 @@ size-matters-copper
 0
 Footprints
 size-matters-silk
+
+
+0
+0
+0
+Footprints
+space invader copper
 
 
 0

@@ -107,7 +107,8 @@
         "min_via_annular_width": 0.049999999999999996,
         "min_via_diameter": 0.39999999999999997,
         "solder_mask_clearance": 0.0,
-        "solder_mask_min_width": 0.0
+        "solder_mask_min_width": 0.0,
+        "use_height_for_length_calcs": true
       },
       "track_widths": [],
       "via_dimensions": [],
@@ -395,7 +396,8 @@
       "meta": {
         "version": 0
       },
-      "model_mode": 0
+      "model_mode": 0,
+      "workbook_filename": ""
     },
     "page_layout_descr_file": "",
     "plot_directory": "",
@@ -406,7 +408,7 @@
   },
   "sheets": [
     [
-      "5ea8ec53-2233-40e4-aa9c-91c2e8cce0f8",
+      "2fbb666d-d1f5-4b7f-be46-c1e08fccdb57",
       ""
     ]
   ],
