@@ -2,13 +2,17 @@
 
 # Latte FRL PCB
 
-PCB designed for Keyboard Cafe's Latte FRL WKL TKL keyboard.
+PCB designed for Keyboard Cafe's Latte FRL WKL TKL keyboard. PCB art by the wonderful [Stellaidescope](https://twitter.com/stellaidoscope).
 
 ## Renders
 
 ![Front](https://i.imgur.com/DeX8eeV.png)
 
 ![Back](https://i.imgur.com/djLunYj.png)
+
+## Layout
+
+![KLE](https://i.imgur.com/OK7Qoid.png)
 
 ## Production
 
