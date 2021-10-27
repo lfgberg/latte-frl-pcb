@@ -6,9 +6,9 @@ PCB designed for Keyboard Cafe's Latte FRL WKL TKL keyboard. PCB art by the wond
 
 ## Renders
 
-![Front](https://i.imgur.com/DeX8eeV.png)
+![Front](https://i.imgur.com/SLM1hDO.png)
 
-![Back](https://i.imgur.com/djLunYj.png)
+![Back](https://i.imgur.com/elpFzMP.png)
 
 ## Layout
 
